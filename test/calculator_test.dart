@@ -1,4 +1,4 @@
-import 'package:flutter_simple_calculator/src/calculator.dart';
+import 'package:flutter_simple_calculator/src/utils/calculator.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

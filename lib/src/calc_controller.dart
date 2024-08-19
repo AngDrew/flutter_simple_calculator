@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_simple_calculator/src/utils/calculator.dart';
 import 'package:intl/intl.dart' as intl;
-
-import 'calculator.dart';
 
 /// Controller for calculator.
 class CalcController extends ChangeNotifier {
